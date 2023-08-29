@@ -76,7 +76,7 @@ public class Main {
         }
         //
         //задача 7
-        System.out.println("\nЗадача 6");
+        System.out.println("\nЗадача 7");
         int one = 25;
         int two = 400;
         int three = 618;
